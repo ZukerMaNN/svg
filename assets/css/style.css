@@ -1,0 +1,8 @@
+.ellipse {
+  transition: 1s;
+}
+
+.svg:hover .ellipse {
+  fill: green;
+  stroke: yellow;
+}
